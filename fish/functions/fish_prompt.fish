@@ -1,0 +1,1 @@
+/home/dorvaryn/.config/fisherman/nitro/fish_prompt.fish
